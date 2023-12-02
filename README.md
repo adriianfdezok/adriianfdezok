@@ -1,3 +1,7 @@
+
+<div align="center">
+  <img src="https://i.imgur.com/mk5W4XW.gif" >
+</div>
 <h3 align="center">
   ¡Bienvenidos a mi perfil! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 </h3>
@@ -35,3 +39,4 @@
 ![After Effects](https://img.shields.io/badge/After_Effects-9999FF.svg?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 
 </div>
+
