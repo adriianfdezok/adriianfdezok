@@ -7,11 +7,11 @@
 <div align="center">
 
 # Sobre Mí:
-<> Soy Frontend developer
+</> Soy Frontend developer
 <br>
-<> Me desarrolle CODERHOUSE
+</> Me desarrolle CODERHOUSE
 <br>
-<> Estoy aprendiendo continuamente: ReactJS y MongoDB.
+</> Estoy aprendiendo continuamente: ReactJS y MongoDB.
 
 # 💻 Mis Stacks <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px">
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
